@@ -1,3 +1,6 @@
 [submodule "dragonball"]
 	path = dragonball
 	url = https://github.com/yojhanHuanca/dragonball
+[submodule "dragonball-frontend"]
+	path = dragonball-frontend
+	url = https://github.com/Ingaxgaramendi/dragonball.git
