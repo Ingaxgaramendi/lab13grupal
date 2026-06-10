@@ -6,4 +6,7 @@
 	url = https://github.com/Ingaxgaramendi/dragonball.git
 [submodule "DragonBall"]
 	path = DragonBall
-	url = https://github.com/Gonnarch/DragonBall
+	url = https://github.com/Gonnarch/DragonBall.git
+[submodule "modulo-dragonball"]
+	path = modulo-dragonball
+	url = https://github.com/Gonnarch/DragonBall.git
